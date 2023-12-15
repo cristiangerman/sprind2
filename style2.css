@@ -96,3 +96,36 @@ nav a {
     justify-content: center;
     display: flex;
 }
+.container-table {
+    display: flex;
+    justify-content: center;
+    border-collapse: separate;
+    border-spacing: 20px;
+    background-color: aqua;
+}
+.semi-footer {
+    text-align: left  ;
+    margin-left: 20%;
+    margin-right: 20%
+}
+.centrar {
+    text-align: center;
+    display: inline;
+}
+.container-formula {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+form {
+    margin: 100px
+    
+}
+fieldset {
+    width: 70vw;
+}
+.centrarr {
+    text-align: center;
+}
